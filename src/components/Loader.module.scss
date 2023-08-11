@@ -1,0 +1,23 @@
+.loader {
+  margin-bottom: 10px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 4px;
+  .loader__line {
+    border-radius: 4px;
+    background-color: #373352;
+    height: 4px;
+    width: 100%;
+    div {
+      max-width: 196px;
+      background-color: #00D749;
+      height: 100%;
+      border-radius: 4px;
+    }
+  }
+  .loader__label {
+    font-size: 10px;
+    text-align: left;
+    line-height: normal;
+  }
+}
