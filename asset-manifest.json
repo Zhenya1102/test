@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.836acd3f.css",
+    "main.js": "/test/static/js/main.aa964409.js",
+    "static/js/787.0c3f432a.chunk.js": "/test/static/js/787.0c3f432a.chunk.js",
+    "static/media/avtar.svg": "/test/static/media/avtar.fedf3f99f5fe6879274384785884d219.svg",
+    "static/media/spiner.svg": "/test/static/media/spiner.3fe5876e7ff82f01b205d8eb7b6a8ed6.svg",
+    "static/media/tourney.svg": "/test/static/media/tourney.994ccc6a3d841ef16b7f1a09243715c4.svg",
+    "static/media/unvisible.svg": "/test/static/media/unvisible.d8d9c0c3576f5bd708c4e8cb6e9d5d62.svg",
+    "static/media/visible.svg": "/test/static/media/visible.dc69186868a8a46ccaac341dbcb8b11f.svg",
+    "static/media/pin.svg": "/test/static/media/pin.f8088a601aeba9770d63afed1b255b37.svg",
+    "static/media/stars.svg": "/test/static/media/stars.f1d39077496ea6cdb4525ace6d98bef8.svg",
+    "index.html": "/test/index.html",
+    "static/media/time.svg": "/test/static/media/time.7c2ecc3bc68e1b367ef97c88677abc36.svg",
+    "static/media/players.svg": "/test/static/media/players.3a15d059bb65bf00d1865f6a55b5e5dc.svg",
+    "main.836acd3f.css.map": "/test/static/css/main.836acd3f.css.map",
+    "main.aa964409.js.map": "/test/static/js/main.aa964409.js.map",
+    "787.0c3f432a.chunk.js.map": "/test/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.836acd3f.css",
+    "static/js/main.aa964409.js"
+  ]
+}
